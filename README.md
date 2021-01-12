@@ -1,2 +1,3 @@
 # sop
-https://samousavii.github.io/sop/
+- (https://github.com/samousavii/sop/blob/main/index.html)
+
